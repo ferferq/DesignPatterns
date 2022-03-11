@@ -1,0 +1,1 @@
+https://github.com/luizomf/design-patterns-typescript/blob/master/src/creational/singleton/diagramas/Singleton.png
