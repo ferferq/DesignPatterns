@@ -1,1 +1,1 @@
-import './creational/singleton';
+import './creational/prototype';
