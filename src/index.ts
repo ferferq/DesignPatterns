@@ -1,1 +1,1 @@
-import './estrutural/composite/validation-composite';
+import './structural/bridge/main';
