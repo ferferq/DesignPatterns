@@ -1,0 +1,2 @@
+https://github.com/luizomf/design-patterns-typescript/blob/master/src/structural/adapter/diagramas/Adapter-Class.png
+https://github.com/luizomf/design-patterns-typescript/blob/master/src/structural/adapter/diagramas/Adapter-Object.png
