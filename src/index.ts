@@ -1,1 +1,1 @@
-import './structural/bridge/main';
+import './structural/decorator/product/main';
