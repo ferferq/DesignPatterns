@@ -1,0 +1,1 @@
+https://github.com/luizomf/design-patterns-typescript/blob/master/src/structural/facade/diagramas/Fa%C3%A7ade.png
